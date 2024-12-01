@@ -4,6 +4,7 @@ import Footer from './assets/Components/footer'
 import Banner from './assets/Components/Banner';
 import SubmitForm from './assets/Components/submitForm'
 import Navbar from './assets/Components/Navbar'
+import PricingPlans from './assets/Components/PricingPlans';
 
 
 
@@ -19,6 +20,7 @@ function App() {
       <Card />
     </div>
       <SubmitForm/>
+      <PricingPlans/>
       <Footer/>
     </>
   )
