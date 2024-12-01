@@ -15,10 +15,10 @@ function Footer() {
               <img 
                 className="h-[15vw] sm:h-[10vw] mx-auto sm:mx-0" 
                 src={codexsvg} 
-                alt="Flown Developer"
+                alt=""
               />
               <p className='text-sm mt-4 font-semibold leading-[1.5rem] text-center sm:text-left text-[#BABCBE]'>
-                Flown Developer India’s No 1 Web development Company. Flown Developer provides unique and best quality websites, animated & motion graphic videos to customers at a very affordable price.
+              Codex Arena is a rapidly growing web development company dedicated to delivering innovative and high-quality solutions. We specialize in creating unique, top-tier websites, as well as producing animated and motion graphic videos that captivate and engage audiences. Additionally, we offer comprehensive digital marketing services, all at highly competitive prices, ensuring exceptional value for our customers.
               </p>
               <h1 className='mt-14 text-sm font-bold text-center sm:text-left text-[#BABCBE]'>Flown Developer © All Rights Reserved.</h1>
             </div>
@@ -28,21 +28,21 @@ function Footer() {
           <div className='right-inner w-full sm:w-[55%] flex flex-col sm:flex-row justify-between items-center sm:items-start'>
             
     
-            <div className="quick-links w-full sm:w-[45%] p-4">
-              <h1 className="text-lg font-semibold text-center sm:text-left text-white">Quick Links</h1>
-              <ul className="space-y-2 text-center sm:text-left text-[#A7A99D]">
-                <li><a href="#" className="text-[#A7A99D] hover:underline">Home</a></li>
-                <li><a href="#services" className="text-[#A7A99D] hover:underline">Services</a></li>
-                <li><a href="#contact_us" className="text-[#A7A99D] hover:underline">Contact Us</a></li>
-              </ul>
-            </div>
+          <div className="quick-links w-full sm:w-[45%] p-4">
+  <h1 className="text-lg font-semibold text-center sm:text-left text-white">Quick Links</h1>
+  <ul className="space-y-2 text-center sm:text-left text-[#A7A99D]">
+    <li><a href="#" className="text-[#A7A99D] hover:no-underline hover:text-[#FFB649]">Home</a></li>
+    <li><a href="#services" className="text-[#A7A99D] hover:no-underline hover:text-[#FFB649]">Services</a></li>
+    <li><a href="#contact_us" className="text-[#A7A99D] hover:no-underline hover:text-[#FFB649]">Contact Us</a></li>
+  </ul>
+</div>
 
           
             <div className="useful-links w-full sm:w-[45%] p-4">
               <h1 className="text-lg font-semibold text-center sm:text-left text-white">Useful Links</h1>
               <ul className="space-y-2 text-center sm:text-left">
-                <li><a href="#" className="text-[#A7A99D] hover:underline">Refund & Cancellation</a></li>
-                <li><a href="#privacy_policy" className="text-[#A7A99D] hover:underline">Privacy Policy</a></li>
+                <li><a href="#" className="text-[#A7A99D] hover:no-underline hover:text-[#FFB649]">Refund & Cancellation</a></li>
+                <li><a href="#privacy_policy" className="text-[#A7A99D] hover:no-underline hover:text-[#FFB649]">Privacy Policy</a></li>
               </ul>
 
              
